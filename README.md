@@ -9,8 +9,13 @@ Requisitos
 Para executar este código, você precisará ter as seguintes bibliotecas instaladas no seu ambiente Python:
 
 tensorflow
+
 tensorflow-datasets
+
 numpy
+
 matplotlib
+
 Pillow (PIL Fork)
+
 Você pode instalar essas dependências usando pip:
